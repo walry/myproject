@@ -1,0 +1,3 @@
+[submodule "myproto"]
+	path = myproto
+	url = https://github.com/walry/myproto.git
